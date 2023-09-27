@@ -16,7 +16,7 @@ References
 ==========
 
 * Mirror of ez.no package server: http://packages.ez.no/ezpublish
-* Project: http://ezpublishlegacy.com
-* Package Server: http://packages.ezpublishlegacy.com/ezpublish
-* Community: http://share.ez.no
+* Project: https://ezpublishlegacy.se7enx.com
+* Package Server: http://packages.ezpublishlegacy.se7enx.com/ezpublish
+* Community: https://github.com/netgen/ezpublish-legacy
 * Upstream Vendor: http://ez.no
