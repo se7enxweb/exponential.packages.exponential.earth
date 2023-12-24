@@ -11,7 +11,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          ref: main
+          ref: master
 
       - name: Generate Directory Listings
         uses: jayanta525/github-pages-directory-listing@main
