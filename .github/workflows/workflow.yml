@@ -16,13 +16,13 @@ jobs:
       - name: Generate Directory Listings
         uses: jayanta525/github-pages-directory-listing@main
         with:
-          FOLDER: packages.ezpublishlegacy.se7enx.com
+          FOLDER: .
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
           # Upload generator folder
-          path: 'packages.ezpublishlegacy.se7enx.com'
+          path: '.'
 
   deploy:
     needs: pages-directory-listing
