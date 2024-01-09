@@ -6,7 +6,7 @@
   <package name="ezwebin_banners" type="contentobject" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/5.3/5.3.0/ezwebin_banners.ezpkg"/>
   <package name="ezwebin_classes" type="contentclass" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/5.3/5.3.0/ezwebin_classes.ezpkg"/>
   <package name="ezwebin_democontent" type="contentobject" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/5.3/5.3.0/ezwebin_democontent.ezpkg"/>
-  <package name="ezwebin_democontent_clean" type="contentobject" url="http://packages.ez.no/ezpublish/5.3/5.3/ezwebin_democontent_clean.ezpkg"/>
+  <package name="ezwebin_democontent_clean" type="contentobject" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/5.3/5.3.0/ezwebin_democontent_clean.ezpkg"/>
   <package name="ezwebin_design_blue" type="sitestyle" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/5.3/5.3.0/ezwebin_design_blue.ezpkg"/>
   <package name="ezwebin_design_cleangray" type="sitestyle" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/5.3/5.3.0/ezwebin_design_cleangray.ezpkg"/>
   <package name="ezwebin_design_gray" type="sitestyle" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/5.3/5.3.0/ezwebin_design_gray.ezpkg"/>
