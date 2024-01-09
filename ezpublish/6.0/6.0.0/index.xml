@@ -12,7 +12,7 @@
   <package name="ezwebin_design_gray" type="sitestyle" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/5.3/5.3.0/ezwebin_design_gray.ezpkg"/>
   <package name="ezwebin_extension" type="extension" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/5.3/5.3.0/ezwebin_extension.ezpkg"/>
   <package name="ezwt_extension" type="extension" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/5.3/5.3.0/ezwt_extension.ezpkg"/>
-  <package name="ezstarrating_extension" type="extension" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/5.3/5.3.0/ezstarrating_extension.ezpkg"/>
+  <package name="ezstarrating_extension" type="extension" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/6.0/6.0.0/ezstarrating_extension.ezpkg"/>
   <package name="ezgmaplocation_extension" type="extension" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/5.3/5.3.0/ezgmaplocation_extension.ezpkg"/>
   <package name="ezflow_classes" type="contentclass" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/5.3/5.3.0/ezflow_classes.ezpkg"/>
   <package name="ezflow_democontent" type="contentobject" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/5.3/5.3.0/ezflow_democontent.ezpkg"/>
