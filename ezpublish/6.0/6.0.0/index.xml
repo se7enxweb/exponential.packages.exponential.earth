@@ -18,7 +18,7 @@
   <package name="ezflow_democontent" type="contentobject" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/5.3/5.3.0/ezflow_democontent.ezpkg"/>
   <package name="ezflow_democontent_clean" type="contentobject" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/5.3/5.3.0/ezflow_democontent_clean.ezpkg"/>
   <package name="ezflow_design" type="sitestyle" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/5.3/5.3.0/ezflow_design.ezpkg"/>
-  <package name="ezflow_extension" type="extension" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/5.3/5.3.0/ezflow_extension.ezpkg"/>
+  <package name="ezflow_extension" type="extension" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/6.0/6.0.0/ezflow_extension.ezpkg"/>
   <package name="ezdemo_classes" type="contentclass" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/6.0/6.0.0/ezdemo_classes.ezpkg"/>
   <package name="ezdemo_democontent" type="contentobject" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/6.0/6.0.0/ezdemo_democontent.ezpkg"/>
   <package name="ezdemo_democontent_clean" type="contentobject" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/6.0/6.0.0/ezdemo_democontent_clean.ezpkg"/>
