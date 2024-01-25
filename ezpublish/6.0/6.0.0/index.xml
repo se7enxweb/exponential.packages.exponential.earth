@@ -21,6 +21,12 @@
   <package name="sevenx_design_gray" type="sitestyle" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/6.0/6.0.0/sevenx_design_gray.ezpkg"/>
   <package name="sevenx_extension" type="extension" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/6.0/6.0.0/sevenx_extension.ezpkg"/>
 
+  <package name="ezpaypal_extension"
+           type="extension"
+           summary="ezpaypal extension"
+           description="ezpaypal eZ publish extension"
+           url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/6.0/6.0.0/ezpaypal_extension.ezpkg"
+           thumbnail_url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/6.0/6.0.0/thumnails/sevenx_site_paypal.png" />
   <package name="ezwt_extension" type="extension" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/5.3/5.3.0/ezwt_extension.ezpkg"/>
   <package name="ezstarrating_extension" type="extension" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/6.0/6.0.0/ezstarrating_extension.ezpkg"/>
   <package name="ezgmaplocation_extension" type="extension" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/6.0/6.0.0/ezgmaplocation_extension.ezpkg"/>
