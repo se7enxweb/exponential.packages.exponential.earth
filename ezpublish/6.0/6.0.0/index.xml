@@ -10,7 +10,7 @@
   <package name="ezwebin_design_blue" type="sitestyle" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/5.3/5.3.0/ezwebin_design_blue.ezpkg"/>
   <package name="ezwebin_design_cleangray" type="sitestyle" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/5.3/5.3.0/ezwebin_design_cleangray.ezpkg"/>
   <package name="ezwebin_design_gray" type="sitestyle" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/5.3/5.3.0/ezwebin_design_gray.ezpkg"/>
-  <package name="ezwebin_extension" type="extension" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/5.3/5.3.0/ezwebin_extension.ezpkg"/>
+  <package name="ezwebin_extension" type="extension" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/6.0/6.0.0/ezwebin_extension.ezpkg"/>
   
   <package name="sevenx_banners" type="contentobject" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/6.0/6.0.0/sevenx_banners.ezpkg"/>
   <package name="sevenx_classes" type="contentclass" url="https://packages.ezpublishlegacy.se7enx.com/ezpublish/6.0/6.0.0/sevenx_classes.ezpkg"/>
