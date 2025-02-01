@@ -1,3 +1,0 @@
-rsync -avz -e ssh packages1:/home/packages/www/ezpublish/* .
-rsync -avz -e ssh packages2:/home/packages/www/ezpublish/* .
-rsync -avz -e ssh packages3:/home/packages/www/ezpublish/* .
