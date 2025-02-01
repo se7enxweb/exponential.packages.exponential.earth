@@ -53,5 +53,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4.0.5
         with:
-          name: github-pages
-          path: .  # Extract files over repository
+          artifact_name: github-pages
