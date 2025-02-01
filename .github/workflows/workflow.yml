@@ -18,7 +18,10 @@ jobs:
 
       - name: Debug Output
         run: ls -al  # Ensure all files are present
-
+        
+      - name: Remove Symlinks and Hard Links
+        run: find . -type l -exec rm {} \;
+      
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
@@ -44,7 +47,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: github-pages
-          path: .  # Extract files over repository
+          path: '.'  # Extract files over repository
 
       - name: Set Downloaded Files Permissions
         run: chmod -R a+rX . # set permissions
