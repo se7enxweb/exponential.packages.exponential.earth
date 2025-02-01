@@ -18,9 +18,10 @@ jobs:
         with:
           FOLDER: .
 
-      - name: Upload a Build Artifact
-        uses: actions/upload-artifact@v4.6.0
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
         with:
+          name: my-artifact
           # Upload generator folder
           path: '.'
 
