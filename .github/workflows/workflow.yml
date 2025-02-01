@@ -18,7 +18,10 @@ jobs:
 
       - name: Debug Output
         run: ls -al  # Ensure all files are present
-        
+      
+      - name: Check Artifact Size
+        run: du -sh .  # Shows the total size of the current directory
+
       - name: Remove Symlinks and Hard Links
         run: find . -type l -exec rm {} \;
       
@@ -52,6 +55,12 @@ jobs:
       - name: Set Downloaded Files Permissions
         run: chmod -R a+rX . # set permissions
         
+      - name: Check Artifact Size
+        run: du -sh .  # Shows the total size of the current directory
+
+      - name: Remove Symlinks and Hard Links
+        run: find . -type l -exec rm {} \; 
+
       - name: Debug Downloaded Files
         run: ls -al  # Ensure artifact was downloaded correctly
 
