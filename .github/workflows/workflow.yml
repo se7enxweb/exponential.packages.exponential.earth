@@ -51,4 +51,4 @@ jobs:
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1  # ❌ Removed artifact_name (not needed)
+        uses: actions/deploy-pages@v4.0.5
