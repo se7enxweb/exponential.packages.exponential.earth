@@ -21,9 +21,6 @@ jobs:
       
       - name: Check Artifact Size
         run: du -sh .  # Shows the total size of the current directory
-
-      - name: Remove Symlinks and Hard Links
-        run: find . -type l -exec rm {} \;
       
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3
@@ -41,15 +38,9 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     runs-on: ubuntu-latest
-    steps:
-      - name: Set Downloaded Files Permissions
-        run: chmod -R a+rX . # set permissions
-        
+    steps:        
       - name: Check Artifact Size
         run: du -sh .  # Shows the total size of the current directory
-
-      - name: Remove Symlinks and Hard Links
-        run: find . -type l -exec rm {} \; 
 
       - name: Debug Downloaded Files
         run: ls -al  # Ensure artifact was downloaded correctly
