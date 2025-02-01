@@ -46,6 +46,9 @@ jobs:
           name: github-pages
           path: .  # Extract files over repository
 
+      - name: Set Downloaded Files Permissions
+        run: chmod -R a+rX . # set permissions
+        
       - name: Debug Downloaded Files
         run: ls -al  # Ensure artifact was downloaded correctly
 
