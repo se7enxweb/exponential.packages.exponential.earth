@@ -1,24 +1,23 @@
-eZ Publish Legacy - Packages Repository
+Exponential CMS - Installation Setup Wizard - Packages Repository
 =======================================
 
-Package server for eZ Publish 6.
+Package server for Exponential 6.
 
 Compatible with modern and stable versions of PHP.
 
-Last updated: 2025-06-09 @ 08:31 PM PST
+Last updated: 2025-08-13 @ 03:50 AM PST
 =======================================
 
 About
 =====
 
-The packages provided are required by eZ Publish 6 / eZ Publish Legacy CMS
+The packages provided are required by Exponential 6 / Exponential Legacy CMS
 
 References
 ==========
 
-* Project: https://ezpublish.one
-* Package Server: https://ezpublish.packages.ezpublish.one/ezpublish
-* Documentation: https://ezpublish.doc.ezpublish.one
-* Community: https://share.ezpublish.one
+* Project: https://exponential.earth
+* Package Server: https://exponential.packages.exponential.earth/exponential
+* Documentation: https://exponential.doc.exponential.earth
+* Community: https://share.exponential.earth
 * Upstream Vendor: https://7xWebsites.com
-* Mirror of long ago deprecated and now unusable by current versions of PHP, the ez.no package server: https://packages.ez.no/ezpublish
