@@ -3,53 +3,53 @@
 
 <!-- DEPENDENCY PACKAGE LIST -->
 
-  <package name="ezwebin_banners" type="contentobject" url="https://ezpublish.packages.ezpublish.one/ezpublish/5.3/5.3.0/ezwebin_banners.ezpkg"/>
-  <package name="ezwebin_classes" type="contentclass" url="https://ezpublish.packages.ezpublish.one/ezpublish/5.3/5.3.0/ezwebin_classes.ezpkg"/>
-  <package name="ezwebin_democontent" type="contentobject" url="https://ezpublish.packages.ezpublish.one/ezpublish/5.3/5.3.0/ezwebin_democontent.ezpkg"/>
-  <package name="ezwebin_democontent_clean" type="contentobject" url="https://ezpublish.packages.ezpublish.one/ezpublish/5.3/5.3.0/ezwebin_democontent_clean.ezpkg"/>
-  <package name="ezwebin_design_blue" type="sitestyle" url="https://ezpublish.packages.ezpublish.one/ezpublish/5.3/5.3.0/ezwebin_design_blue.ezpkg"/>
-  <package name="ezwebin_design_cleangray" type="sitestyle" url="https://ezpublish.packages.ezpublish.one/ezpublish/5.3/5.3.0/ezwebin_design_cleangray.ezpkg"/>
-  <package name="ezwebin_design_gray" type="sitestyle" url="https://ezpublish.packages.ezpublish.one/ezpublish/5.3/5.3.0/ezwebin_design_gray.ezpkg"/>
-  <package name="ezwebin_extension" type="extension" url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/ezwebin_extension.ezpkg"/>
+  <package name="ezwebin_banners" type="contentobject" url="https://exponential.packages.exponential.earth/exponential/5.3/5.3.0/ezwebin_banners.ezpkg"/>
+  <package name="ezwebin_classes" type="contentclass" url="https://exponential.packages.exponential.earth/exponential/5.3/5.3.0/ezwebin_classes.ezpkg"/>
+  <package name="ezwebin_democontent" type="contentobject" url="https://exponential.packages.exponential.earth/exponential/5.3/5.3.0/ezwebin_democontent.ezpkg"/>
+  <package name="ezwebin_democontent_clean" type="contentobject" url="https://exponential.packages.exponential.earth/exponential/5.3/5.3.0/ezwebin_democontent_clean.ezpkg"/>
+  <package name="ezwebin_design_blue" type="sitestyle" url="https://exponential.packages.exponential.earth/exponential/5.3/5.3.0/ezwebin_design_blue.ezpkg"/>
+  <package name="ezwebin_design_cleangray" type="sitestyle" url="https://exponential.packages.exponential.earth/exponential/5.3/5.3.0/ezwebin_design_cleangray.ezpkg"/>
+  <package name="ezwebin_design_gray" type="sitestyle" url="https://exponential.packages.exponential.earth/exponential/5.3/5.3.0/ezwebin_design_gray.ezpkg"/>
+  <package name="ezwebin_extension" type="extension" url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/ezwebin_extension.ezpkg"/>
   
-  <package name="sevenx_banners" type="contentobject" url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/sevenx_banners.ezpkg"/>
-  <package name="sevenx_classes" type="contentclass" url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/sevenx_classes.ezpkg"/>
-  <package name="sevenx_democontent" type="contentobject" url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/sevenx_democontent.ezpkg"/>
-  <package name="sevenx_democontent_clean" type="contentobject" url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/sevenx_democontent_clean.ezpkg"/>
-  <package name="sevenx_design_blue" type="sitestyle" url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/sevenx_design_blue.ezpkg"/>
-  <package name="sevenx_design_cleangray" type="sitestyle" url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/sevenx_design_cleangray.ezpkg"/>
-  <package name="sevenx_design_gray" type="sitestyle" url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/sevenx_design_gray.ezpkg"/>
-  <package name="sevenx_extension" type="extension" url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/sevenx_extension.ezpkg"/>
+  <package name="sevenx_banners" type="contentobject" url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/sevenx_banners.ezpkg"/>
+  <package name="sevenx_classes" type="contentclass" url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/sevenx_classes.ezpkg"/>
+  <package name="sevenx_democontent" type="contentobject" url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/sevenx_democontent.ezpkg"/>
+  <package name="sevenx_democontent_clean" type="contentobject" url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/sevenx_democontent_clean.ezpkg"/>
+  <package name="sevenx_design_blue" type="sitestyle" url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/sevenx_design_blue.ezpkg"/>
+  <package name="sevenx_design_cleangray" type="sitestyle" url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/sevenx_design_cleangray.ezpkg"/>
+  <package name="sevenx_design_gray" type="sitestyle" url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/sevenx_design_gray.ezpkg"/>
+  <package name="sevenx_extension" type="extension" url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/sevenx_extension.ezpkg"/>
 
-  <package name="ezpaypal_extension" type="extension" url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/ezpaypal_extension.ezpkg" />
+  <package name="ezpaypal_extension" type="extension" url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/ezpaypal_extension.ezpkg" />
 
-  <package name="ezwt_extension" type="extension" url="https://ezpublish.packages.ezpublish.one/ezpublish/5.3/5.3.0/ezwt_extension.ezpkg"/>
-  <package name="ezstarrating_extension" type="extension" url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/ezstarrating_extension.ezpkg"/>
-  <package name="ezgmaplocation_extension" type="extension" url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/ezgmaplocation_extension.ezpkg"/>
-  <package name="ezflow_classes" type="contentclass" url="https://ezpublish.packages.ezpublish.one/ezpublish/5.3/5.3.0/ezflow_classes.ezpkg"/>
-  <package name="ezflow_democontent" type="contentobject" url="https://ezpublish.packages.ezpublish.one/ezpublish/5.3/5.3.0/ezflow_democontent.ezpkg"/>
-  <package name="ezflow_democontent_clean" type="contentobject" url="https://ezpublish.packages.ezpublish.one/ezpublish/5.3/5.3.0/ezflow_democontent_clean.ezpkg"/>
-  <package name="ezflow_design" type="sitestyle" url="https://ezpublish.packages.ezpublish.one/ezpublish/5.3/5.3.0/ezflow_design.ezpkg"/>
-  <package name="ezflow_extension" type="extension" url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/ezflow_extension.ezpkg"/>
-  <package name="ezdemo_classes" type="contentclass" url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/ezdemo_classes.ezpkg"/>
-  <package name="ezdemo_democontent" type="contentobject" url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/ezdemo_democontent.ezpkg"/>
-  <package name="ezdemo_democontent_clean" type="contentobject" url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/ezdemo_democontent_clean.ezpkg"/>
+  <package name="ezwt_extension" type="extension" url="https://exponential.packages.exponential.earth/exponential/5.3/5.3.0/ezwt_extension.ezpkg"/>
+  <package name="ezstarrating_extension" type="extension" url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/ezstarrating_extension.ezpkg"/>
+  <package name="ezgmaplocation_extension" type="extension" url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/ezgmaplocation_extension.ezpkg"/>
+  <package name="ezflow_classes" type="contentclass" url="https://exponential.packages.exponential.earth/exponential/5.3/5.3.0/ezflow_classes.ezpkg"/>
+  <package name="ezflow_democontent" type="contentobject" url="https://exponential.packages.exponential.earth/exponential/5.3/5.3.0/ezflow_democontent.ezpkg"/>
+  <package name="ezflow_democontent_clean" type="contentobject" url="https://exponential.packages.exponential.earth/exponential/5.3/5.3.0/ezflow_democontent_clean.ezpkg"/>
+  <package name="ezflow_design" type="sitestyle" url="https://exponential.packages.exponential.earth/exponential/5.3/5.3.0/ezflow_design.ezpkg"/>
+  <package name="ezflow_extension" type="extension" url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/ezflow_extension.ezpkg"/>
+  <package name="ezdemo_classes" type="contentclass" url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/ezdemo_classes.ezpkg"/>
+  <package name="ezdemo_democontent" type="contentobject" url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/ezdemo_democontent.ezpkg"/>
+  <package name="ezdemo_democontent_clean" type="contentobject" url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/ezdemo_democontent_clean.ezpkg"/>
 
-  <package name="ezdemo_extension" type="extension" url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/ezdemo_extension.ezpkg"/>
+  <package name="ezdemo_extension" type="extension" url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/ezdemo_extension.ezpkg"/>
 
 
-  <package name="sevenx_site" version="1.0.0-0" type="site" summary="7x Simple Website Interface" description="7x Simple Website Interface is a web based CMS solution based on eZ Publish. It contains templates and settings that meets the most common requirements for content management systems." url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/sevenx_site.ezpkg" thumbnail_url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/thumbnails/sevenx_site.png"/>
-  <package name="sevenx_site_clean" version="1.0.0-0" type="site" summary="7x Simple Website Interface (without demo content)" description="7x Simple Website Interface is a web based CMS solution based on eZ Publish. It contains templates and settings that meets the most common requirements for content management systems." url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/sevenx_site_clean.ezpkg" thumbnail_url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/thumbnails/sevenx_site_clean.png"/>
+  <package name="sevenx_site" version="1.0.0-0" type="site" summary="7x Simple Website Interface" description="7x Simple Website Interface is a web based CMS solution based on Exponential. It contains templates and settings that meets the most common requirements for content management systems." url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/sevenx_site.ezpkg" thumbnail_url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/thumbnails/sevenx_site.png"/>
+  <package name="sevenx_site_clean" version="1.0.0-0" type="site" summary="7x Simple Website Interface (without demo content)" description="7x Simple Website Interface is a web based CMS solution based on Exponential. It contains templates and settings that meets the most common requirements for content management systems." url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/sevenx_site_clean.ezpkg" thumbnail_url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/thumbnails/sevenx_site_clean.png"/>
 
-  <package name="ezflow_site" version="5.1-0" type="site" summary="eZ Flow" description="The eZ Flow extension to eZ Publish enables editors to build complex page layouts and pre-plan the publication schedule to ensure a constant flow of rich content." url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/ezflow_site.ezpkg" thumbnail_url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/thumbnails/ezflow_site.png"/>
-  <package name="ezflow_site_clean" version="5.1-0" type="site" summary="eZ Flow (without demo content)" description="The eZ Flow extension to eZ Publish enables editors to build complex page layouts and pre-plan the publication schedule to ensure a constant flow of rich content." url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/ezflow_site_clean.ezpkg" thumbnail_url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/thumbnails/ezflow_site_clean.png"/>
+  <package name="ezflow_site" version="5.1-0" type="site" summary="eZ Flow" description="The eZ Flow extension to Exponential enables editors to build complex page layouts and pre-plan the publication schedule to ensure a constant flow of rich content." url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/ezflow_site.ezpkg" thumbnail_url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/thumbnails/ezflow_site.png"/>
+  <package name="ezflow_site_clean" version="5.1-0" type="site" summary="eZ Flow (without demo content)" description="The eZ Flow extension to Exponential enables editors to build complex page layouts and pre-plan the publication schedule to ensure a constant flow of rich content." url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/ezflow_site_clean.ezpkg" thumbnail_url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/thumbnails/ezflow_site_clean.png"/>
 
-  <package name="ezwebin_site" version="1.10-0" type="site" summary="Website Interface" description="Website Interface is a web based CMS solution based on eZ Publish. It contains templates and settings that meets the most common requirements for content management systems." url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/ezwebin_site.ezpkg" thumbnail_url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/thumbnails/ezwebin_site.png"/>
-  <package name="ezwebin_site_clean" version="1.10-0" type="site" summary="Website Interface (without demo content)" description="Website Interface is a web based CMS solution based on eZ Publish. It contains templates and settings that meets the most common requirements for content management systems." url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/ezwebin_site_clean.ezpkg" thumbnail_url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/thumbnails/ezwebin_site_clean.png"/>
+  <package name="ezwebin_site" version="1.10-0" type="site" summary="Website Interface" description="Website Interface is a web based CMS solution based on Exponential. It contains templates and settings that meets the most common requirements for content management systems." url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/ezwebin_site.ezpkg" thumbnail_url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/thumbnails/ezwebin_site.png"/>
+  <package name="ezwebin_site_clean" version="1.10-0" type="site" summary="Website Interface (without demo content)" description="Website Interface is a web based CMS solution based on Exponential. It contains templates and settings that meets the most common requirements for content management systems." url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/ezwebin_site_clean.ezpkg" thumbnail_url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/thumbnails/ezwebin_site_clean.png"/>
   
-  <package name="ezdemo_site" version="6.0.0" type="site" summary="eZ Publish Demo Site" description="eZ Publish Demo Site is a web based CMS solution based on eZ Publish. It contains templates and settings that meets the most common requirements for content management systems." url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/ezdemo_site.ezpkg" thumbnail_url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/thumbnails/ezdemo_site.png"/>
-  <package name="ezdemo_site_clean" version="6.0.0" type="site" summary="eZ Publish Demo Site (without demo content)" description="eZ Publish Demo Site is a web based CMS solution based on eZ Publish. It contains templates and settings that meets the most common requirements for content management systems." url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/ezdemo_site_clean.ezpkg" thumbnail_url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/thumbnails/ezdemo_site_clean.png"/>
+  <package name="ezdemo_site" version="6.0.0" type="site" summary="Exponential Demo Site" description="Exponential Demo Site is a web based CMS solution based on Exponential. It contains templates and settings that meets the most common requirements for content management systems." url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/ezdemo_site.ezpkg" thumbnail_url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/thumbnails/ezdemo_site.png"/>
+  <package name="ezdemo_site_clean" version="6.0.0" type="site" summary="Exponential Demo Site (without demo content)" description="Exponential Demo Site is a web based CMS solution based on Exponential. It contains templates and settings that meets the most common requirements for content management systems." url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/ezdemo_site_clean.ezpkg" thumbnail_url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/thumbnails/ezdemo_site_clean.png"/>
 
-  <package name="plain_site" version="1.1-2" type="site" summary="Plain site" description="Stripped install. Contains no special toolbar or menu choices" url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/plain_site.ezpkg" thumbnail_url="https://ezpublish.packages.ezpublish.one/ezpublish/6.0/6.0.3/thumbnails/plain_site.png"/>
+  <package name="plain_site" version="1.1-2" type="site" summary="Plain site" description="Stripped install. Contains no special toolbar or menu choices" url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/plain_site.ezpkg" thumbnail_url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.3/thumbnails/plain_site.png"/>
 
 </packages>
