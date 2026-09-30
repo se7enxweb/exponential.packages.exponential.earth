@@ -5,7 +5,7 @@ Package server for Exponential 6.
 
 Compatible with modern and stable versions of PHP.
 
-Last updated: 2026-06-05 @ 08:10 AM PST
+Last updated: 2026-09-30 @ 03:23 PM PST
 =======================================
 
 About
