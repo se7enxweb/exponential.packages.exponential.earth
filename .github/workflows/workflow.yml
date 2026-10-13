@@ -1,6 +1,13 @@
 name: main
 on: [push]
 
+# One Pages deployment at a time. A push that arrives while a deployment runs waits for it,
+# and only the newest waiting push deploys; each deployment publishes the whole tree as of
+# its commit, so nothing is lost when an older waiting one is skipped.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
 jobs:
   pages-directory-listing:
     runs-on: ubuntu-latest
