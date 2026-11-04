@@ -26,7 +26,6 @@
 
   <package name="ezpaypal_extension" type="extension" url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.15/ezpaypal_extension.ezpkg" />
 
-  <package name="ezgmaplocation_extension" type="extension" url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.15/ezgmaplocation_extension.ezpkg"/>
   <package name="ezflow_classes" type="contentclass" url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.15/ezflow_classes.ezpkg"/>
   <package name="ezflow_democontent" type="contentobject" url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.15/ezflow_democontent.ezpkg"/>
   <package name="ezflow_democontent_clean" type="contentobject" url="https://exponential.packages.exponential.earth/exponential/6.0/6.0.15/ezflow_democontent_clean.ezpkg"/>
